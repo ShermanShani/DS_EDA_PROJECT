@@ -1,8 +1,8 @@
 <!DOCTYPE html>
 <html>
 <head>
-  <title>Practical Data Science EDA project - Running dataset from kaggle
-</title>
+  <title>Practical Data Science EDA project - Running dataset from kaggle</title>
+
 </head>
 <body>
     <h1>Resources:</h1>
