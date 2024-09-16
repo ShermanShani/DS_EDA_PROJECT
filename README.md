@@ -9,6 +9,6 @@
       <li>Runners age categories - taken from: https://northstowehalf.co.uk/age-groups/</li>
     </ol>  
     <p>Runners age feature wasn't sufficeint for our data set - further categories were built</p>
-    <h2>Summary PP presentation: <a href="[url](https://github.com/ShermanShani/DS_EDA_PROJECT/blob/main/Top_Runs_EDA.pptx)">Top_Runs_EDA.pptx</a></h2>
+    <h2>Summary PP presentation: <a href="https://github.com/ShermanShani/DS_EDA_PROJECT/blob/main/Top_Runs_EDA.pptx">Top_Runs_EDA.pptx</a></h2>
 </body>
 </html>
