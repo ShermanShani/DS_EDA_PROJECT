@@ -1,4 +1,4 @@
-<u>Practical Data Science EDA project - Running dataset from kaggle</u>
+<title>Practical Data Science EDA project - Running dataset from kaggle</title>
 
 Resources:
 1) Data set - taken from Kaggle - https://www.kaggle.com/datasets/jguerreiro/running
