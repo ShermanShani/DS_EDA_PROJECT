@@ -2,6 +2,10 @@
 <html>
 <body>
     <h1>Practical Data Science EDA project - Running dataset from kaggle</h1>
+    <h2>Content</h2>
+    <p>Track all-time top performances (top 1000) for Olympics distances and the half marathon.</p>
+    <h2>Acknowledgements</h2>
+    <p>The data was scraped from http://www.alltime-athletics.com/index.html</p>
     <h2>Resources:</h2>
     <ol>
       <li><a href=https://www.kaggle.com/datasets/jguerreiro/running>Running dataset</a> taken from Kaggle</li>
